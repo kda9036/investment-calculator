@@ -48,7 +48,7 @@ After Adjusting Expected Return
 ![expected_return_adjusted](https://github.com/user-attachments/assets/d593f0e5-2e03-48de-8c37-2e85ddc99c47)
 
 After Adjusting Duration
-![duration_adjusted](https://github.com/user-attachments/assets/eea0fb9f-5324-4f0c-bf6a-597892fa1cab)
+![duration_adjusted](https://github.com/user-attachments/assets/dd0c0082-dff8-40e1-8b8c-d41a3d70162a)
 
 # Future Work
 
