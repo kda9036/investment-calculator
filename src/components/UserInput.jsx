@@ -41,9 +41,9 @@ export default function UserInput({ onChange, userInput }) {
 
         <p>
           <label>Duration</label>
+          {/* add min 1? instead, checking for positive duration in App component */}
           <input
             type="number"
-            min="0"
             required
             value={userInput.duration}
             onChange={(event) => onChange("duration", event.target.value)}
