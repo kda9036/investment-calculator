@@ -29,11 +29,17 @@ To demonstate/practice React core concepts including components, jsx, props, and
 
 # Features
 
+- Use values for inital investment, annual investment, expected return, and duration (in years) to calculate the investment value, interest for the year, total interest, and invested capital
+- Results/values are formatted and displayed in a table
+- Duration entered must be greater than or equal to 1
+
 # Screenshots
 
 Web page - Initial State
 
 # Future Work
+
+- Possible restriction of user input other than duration
 
 # Notes/Run Project
 
