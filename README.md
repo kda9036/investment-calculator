@@ -36,6 +36,19 @@ To demonstate/practice React core concepts including components, jsx, props, and
 # Screenshots
 
 Web page - Initial State
+![initial_state](https://github.com/user-attachments/assets/2d9b84f5-9e13-49ba-8615-714d5edaf387)
+
+After Adjusting Initial Investment
+![inital_investment_adjusted](https://github.com/user-attachments/assets/a9610258-02bb-4221-8c62-abf1650338ae)
+
+After Adjusting Annual Investment
+![annual_investment_adjusted](https://github.com/user-attachments/assets/b677ba6b-1629-45c7-81cb-22ac01e59c03)
+
+After Adjusting Expected Return
+![expected_return_adjusted](https://github.com/user-attachments/assets/d593f0e5-2e03-48de-8c37-2e85ddc99c47)
+
+After Adjusting Duration
+![duration_adjusted](https://github.com/user-attachments/assets/eea0fb9f-5324-4f0c-bf6a-597892fa1cab)
 
 # Future Work
 
